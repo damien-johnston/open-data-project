@@ -1,0 +1,7 @@
+jinja2
+requests
+pandas
+IPython
+plotnine
+matplotlib
+ipykernel
