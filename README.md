@@ -1,6 +1,6 @@
 # open-data-project
 - Repo for open data cross reference projects
-- VS Code + Python + Jupyter Notebooks is used for local development. 
+- VS Code + Python + Jupyter Notebooks are used for local development. 
 - Virtual environment is 3.11.9 for compatibility with Azure Functions if needed.
 
 ## Award Recipients
